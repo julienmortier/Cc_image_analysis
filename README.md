@@ -1,3 +1,3 @@
-# Cc_ilastik_pipeline
+# Cc_image_analysis
 
 Julien Mortier, Joel Hallgren
